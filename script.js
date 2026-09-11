@@ -7,7 +7,7 @@ const makeChange = (c) => {
 	const d=Math.floor(c/10);
 	c%=10;
 
-	const n = Math.Floor(c/5);
+	const n = Math.floor(c/5);
 	c%=5;
 
 	const p=c;
