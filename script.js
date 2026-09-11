@@ -13,6 +13,7 @@ const makeChange = (c) => {
 	const p=c;
 
 	return {q,d,n,p};
+	
 };
 
 // Do not the change the code below
